@@ -1,3 +1,3 @@
 ## My final project for COMM318 _Stories from Data_ (Fall2020)
 
-* You will edit this file to act as the main index page for your project 
+For my final project, I wanted to see whether or not college students really where contributing to spikes in the COVID-19 pandemic. The news often reinterates that college students might be an issue because of the traveling required to go between campus and home, and how large student populations can endlessly spread the disease. I'm taking data from New York Times to see how much college students contribute to the number of cases in each state, and also if the class of university/college matters in mitigating cases. 
